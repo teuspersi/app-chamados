@@ -10,7 +10,7 @@ Projeto feito com o intuito de treinar a utilização do método POST e autentic
 - Usuários do tipo padrão são restringidos a ver somente os chamados criados por eles mesmos;
 - Usuários administrativos podem ver todos.
 ### Screenshots
-![Página de Login](https://github.com/teuspersi/app-chamados/screenshot1.png)
-![Página Home](https://github.com/teuspersi/app-chamados/screenshot2.png)
-![Página Abrir Chamados](https://github.com/teuspersi/app-chamados/screenshot3.png)
-![Página Consultar Chamados](https://github.com/teuspersi/app-chamados/screenshot4.png)
+![Página de Login](https://raw.githubusercontent.com/teuspersi/app-chamados/main/screenshot1.png)
+![Página Home](https://raw.githubusercontent.com/teuspersi/app-chamados/main/screenshot2.png)
+![Página Abrir Chamados](https://raw.githubusercontent.com/teuspersi/app-chamados/main/screenshot3.png)
+![Página Consultar Chamados](https://raw.githubusercontent.com/teuspersi/app-chamados/main/screenshot4.png)
