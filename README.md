@@ -8,7 +8,7 @@ Projeto feito com o intuito de treinar a utilização do método POST e autentic
 |jose@teste.com.br|1234|Padrão
 |maria@teste.com.br|1234|Padrão
 - Usuários do tipo padrão são restringidos a ver somente os chamados criados por eles mesmos;
-- Usuários administrativos podem ver todos.
+- Usuários administrativos podem ver todos os chamados.
 ## Screenshots
 ### Página de Login
 ![Página de Login](https://raw.githubusercontent.com/teuspersi/app-chamados/main/screenshot1.png)
